@@ -28,10 +28,10 @@
 		"eslint-config-custom": "workspace:*"
 	},
 	"dependencies": {
-		"@svelte-hasura-codegen": "../svelte-hasura-codegen"
+		"@sveltekit-graphql-codegen": "../sveltekit-graphql-codegen"
 	},
 	"peerDependencies": {
-		"@svelte-hasura-codegen": "../svelte-hasura-codegen"
+		"@sveltekit-graphql-codegen": "../sveltekit-graphql-codegen"
 	},
 	"type": "module"
 }

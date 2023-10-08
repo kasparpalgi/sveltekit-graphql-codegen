@@ -1,4 +1,4 @@
-import { AsyncUsers } from 'svelte-hasura-codegen';
+import { AsyncUsers } from 'sveltekit-graphql-codegen';
 
 
 /** @type {import('./$types').PageServerLoad} */
