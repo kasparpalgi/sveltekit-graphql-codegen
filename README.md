@@ -1,6 +1,6 @@
 # SvelteKit GraphQL Codege with Apollo
 
-Use yarn (maybe npm works sometimes, too): `yarn install`, `yarn dev`, `yarn codegen`
+Use yarn `npm install --global yarn` (maybe npm works sometimes, too) and then: `yarn install`, `yarn dev`, `yarn codegen`
 
 ## ToDo
 
